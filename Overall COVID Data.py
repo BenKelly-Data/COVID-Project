@@ -13,8 +13,8 @@ import numpy as np
 # In[9]:
 
 
-deaths = pd.read_csv('/Users/benkelly/Downloads/Courses/Alex the Analyst/Data/Covid Deaths.csv',header=0)
-vax = pd.read_csv('/Users/benkelly/Downloads/Courses/Alex the Analyst/Data/Covid Vax.csv',header=0)
+deaths = pd.read_csv('/Users/benkelly/Downloads/Projects/COVID Overview/Data/Covid Deaths.csv',header=0)
+vax = pd.read_csv('/Users/benkelly/Downloads/Projects/COVID Overview/Data/Covid Vax.csv',header=0)
 
 
 # In[17]:
