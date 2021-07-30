@@ -7,7 +7,6 @@
 get_ipython().system('pip install pandasql')
 import pandas as pd
 import pandasql as psql
-import numpy as np
 
 
 # In[2]:
